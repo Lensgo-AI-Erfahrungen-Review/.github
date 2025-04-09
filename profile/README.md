@@ -19,6 +19,12 @@
 
 <h3>Text-zu-Bild-Erstellung: Visuelle Inhalte einfach generieren</h3>
 <p>Mit der Funktion Text-to-Image von Lensgo AI entstehen Bilder direkt aus textlichen Beschreibungen. Benutzer geben einfach Stichworte oder kurze Sätze ein und erhalten sofortige Visualisierungen. So sparen Unternehmen wertvolle Zeit bei der Erstellung von Grafiken für Social Media oder Webprojekte – ganz ohne zusätzliches Grafikdesign.</p>
+
+<img src="https://i.ytimg.com/vi/r7B9p1AUwD0/maxresdefault.jpg"
+  width="800"
+  height="450"
+/>
+
 <ul>
   <li>Sofortige Bildgenerierung basierend auf Text</li>
   <li>Keine Grafikkenntnisse erforderlich</li>
